@@ -1,0 +1,16 @@
+{
+  "name": "storytime-with-sunny",
+  "version": "1.0.0",
+  "description": "Interactive AI conversation app for children",
+  "scripts": {
+    "install": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:backend": "cd backend && npm run build",
+    "build:frontend": "cd frontend && npm run build",
+    "build": "npm run build:backend && npm run build:frontend"
+  },
+  "keywords": ["ai", "conversation", "kids", "voice", "education"],
+  "author": "",
+  "license": "MIT"
+}
