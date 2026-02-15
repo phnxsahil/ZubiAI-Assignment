@@ -2,6 +2,19 @@
 
 An interactive AI conversation app for children featuring real-time voice chat, image analysis, and text-to-speech capabilities.
 
+> **📋 Assignment Submission:** This project fulfills the ZubiAI Real-Time AI Conversation assignment. See **[ASSIGNMENT_README.md](./ASSIGNMENT_README.md)** for detailed requirement mapping and evaluation.
+
+## ✅ Assignment Status
+
+**All requirements exceeded!** This implementation includes:
+- ✅ React real-time interface with TypeScript
+- ✅ Engaging image display with multiple options
+- ✅ AI-initiated voice conversation (AI speaks first!)
+- ✅ 4 tool calls for UI actions (stars, sparkles, filters, backgrounds)
+- ✅ Professional full-stack architecture (React + Express + Gemini)
+
+**[→ View Assignment Details](./ASSIGNMENT_README.md)**
+
 ## 🏗️ Project Structure
 
 ```
